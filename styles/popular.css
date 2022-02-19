@@ -1,0 +1,144 @@
+.popular {
+    margin: 0 auto;
+    margin-top: 14.99rem;
+    max-width: 90%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: var(--white);
+   
+
+}
+
+.popular-div {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 17.1rem;
+    justify-content: space-between;
+  
+  
+  
+}
+
+.p1 {
+    display: flex;
+    flex-direction: column;
+    width: 37.69rem;
+  
+}
+
+.p1 > div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#astronauta-1 {
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+
+   
+}
+
+#astronauta-1-mayk {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 4.4rem;
+    color: var(--gray-dark)
+}
+
+#astronauta-1-mayk > h3:nth-child(2) {
+    color: var(--red)
+}
+
+.p1 > div > span > img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.p1 > div:nth-child(2) > img {
+    margin-top: 2.6rem;
+}
+
+
+.p1 > div:nth-child(3) {
+    margin-top: 5rem;
+}
+
+.p1 > div:nth-child(4) > img {
+    margin-top: 2.6rem;
+}
+
+.p2 {
+    background: var(--white);
+    max-height: 100%;
+    width: .1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.p3 {
+    display: flex;
+    flex-direction: column;
+    width: 37.69rem;
+  
+}
+
+.p3 > div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#astronauta-1 {
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+
+   
+}
+
+#astronauta-1-mayk {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 4.4rem;
+    color: var(--gray-dark)
+}
+
+#astronauta-1-mayk > h3:nth-child(2) {
+    color: var(--red)
+}
+
+.p3 > div > span > img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.p3 > div:nth-child(2) > img {
+    margin-top: 2.6rem;
+}
+
+
+.p3 > div:nth-child(3) {
+    margin-top: 5rem;
+}
+
+.p3 > div:nth-child(4) > img {
+    margin-top: 2.6rem;
+}

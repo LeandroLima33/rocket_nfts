@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+
+    width: 100%;
+    background-color: var(--background);
+    background-image: url(../imgs/background.svg);
+    background-repeat: no-repeat;
+    background-position:top;
+    -webkit-font-smoothing: antialiased;
+    
+  
+ 
+}
+
+html {
+
+    font-size: 62.5%;
+    box-sizing: border-box;
+
+
+    --red: #FF5B50;
+    --gray-dark: #5A5757;
+    --black: #0D0D0D;
+    --white: #ffffff;
+    --gray: #c4c4c4;
+    --background: #0e0e0e;
+    --artistas: #252525;
+   
+}
+

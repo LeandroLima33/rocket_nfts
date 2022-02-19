@@ -1,0 +1,132 @@
+.links {
+    max-width: 100%;
+    background: var(--gray-dark);
+    margin-top: 14.66rem;
+}
+
+.l-1 {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8.8rem;
+  
+    
+
+}
+
+.l-1 > img {
+    margin-left: 8.4rem;
+    margin-top: 10.2rem;
+    width: 27.6rem;
+    height: 4.3rem;
+}
+
+.l-2 {
+    width: 8rem;
+    height: 8rem;
+ 
+    background: var(--red);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8.8rem;
+    margin-top: 8.2rem;
+  
+}
+
+.links-l2 {
+    display: flex;
+   
+    max-width: 100%;
+    height: 31.9rem;
+    border-top: 1px solid var(--white);
+    border-bottom: 1px solid var(--white);
+    margin-top: 6rem;
+ 
+}
+
+#fiq {
+    width: 54.4rem;
+    display: flex;
+    flex-direction: column;
+ 
+    margin-left: 8.1rem;
+  
+    border-right: 1px solid var(--white);
+
+ 
+
+}
+
+#fiq > span {
+    margin-top: 2.5rem;
+    display: flex;
+}
+
+#fiq > h2 {
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 6.7rem;
+    color: var(--white);
+ 
+}
+
+#fiq > span > input {
+    width: 28.2rem;
+    height: 6.6rem;
+    background: var(--black);
+    color: white;  
+    transition: .5s;
+}
+
+#fiq > span > input:focus {
+    outline: none;
+    box-shadow: 0px 0px 2px 2px var(--red);
+}
+
+#fiq > span > input::placeholder {
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    
+}
+
+#fiq > span > button {
+    width: 12.2rem;
+    height: 6.6rem;
+    margin-left: 0px;
+    cursor: pointer;
+    font-family: 'Montserrta', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.links-l3 {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10.2rem;
+ 
+}
+
+
+
+.links-l3 li {
+    margin-top: .7rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    margin-right: 12.8rem;
+    
+
+}
+
+.links-l3 a {
+    color: var(--gray);
+}
+
+.links-l3 a:hover {
+    color: var(--red);
+}
